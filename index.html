@@ -1,1 +1,99 @@
-<p>"hello, world"</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+ 
+  <link rel="stylesheet" href="/css/app.css">
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js">
+  </script>
+
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  
+
+  <script src="/js/application.js"></script>
+
+  <title></title>
+</head>
+<body id="body">
+  <div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  </div>
+
+  <div>
+    <div id="impress">
+  
+      <div id="intro" class="step slide" data-x="0" data-y="0">
+        <div id="profile">
+        </div>
+        <span id="hello">Hello, </span>
+        <span id="my"><i>my </i></span>
+        <span id="name"><i>name </i></span>
+        <span id="is"><i>is</i></span>
+        <span id="nathanielwroblewski" class="hidden">Nathaniel Wroblewski  </span>
+      </div>
+    
+      <div class='step slide sky slideshow' data-x="3000" data-y="0" data-rotate="90">
+        <img id="goldengate" src="/img/golden_gate.png" />
+        <div id='clouds'>
+        </div>
+        <span id="ima" class="span"><i>I am a </i></span>
+        <span id="web" class="span"><b>WEB</b> </span>
+        <span id="dev" class="span">DEVELOPER </span>
+        <span id="in" class="span"> <i>in</i> </span>
+        <span id="sanfran" class="span">San Francisco</span>
+      </div>
+
+      <div class='step slide languages' data-x="3000" data-y="0" data-z="-1500" data-rotate='90'>
+        <p id="ispeak">I speak:</p>
+        <ul id="list">
+          <li id="ruby" class="lang hidden">Ruby</li>
+          <li id="rails" class="lang">Rails</li>
+          <li id="sql" class="lang">SQL</li>
+          <li id="sinatra" class="lang">Sinatra</li>
+          <li id="js" class="lang">JavaScript</li>
+          <li id="jquery" class="lang">jQuery</li>
+          <li id="ajax" class="lang">AJAX</li>
+        </ul>
+        <div id="bigify">
+          <ul>
+            <li id="ar" class="lang big">ActiveRecord</li>
+          </ul>
+        </div>
+        <p id="learn">and always learning more.</p>
+      </div>
+
+      <div class='step slide languages' data-x="3700" data-y="0" data-z="-1950" data-rotate="-90" data-rotate-y="90">
+        <div id="fb" class="icons">
+          <img src="/img/facebook.png"><a href="http://fb.com/nathaniel.wroblewski"><span>fb.com/nathaniel.wroblewski</span></a>
+        </div>
+        <div id="twitter" class="icons">
+          <img src="/img/twitter.png"><a href="http://twitter.com/RubeOnRails"><span>twitter.com/RubeOnRails</span></a>
+        </div>
+        <div id="tumblr" class="icons">
+          <img src="/img/icon_tumblr.png"><a href="http://rube-on-rails.tumblr.com/"><span>rube-on-rails.tumblr.com</span></a>
+        </div>
+        <div id="github" class="icons">
+          <img src="/img/github.png"><a href="https://github.com/NathanielWroblewski"><span>github.com/NathanielWroblewski</span></a>
+        </div>
+        <div id="linkedin" class="icons">
+          <img src="/img/linkedin.png"><a href="http://linkedin.com/in/nathanielwroblewski"><span>linkedin.com/in/nathanielwroblewski</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="hint">
+  <p>Use a spacebar or arrow keys to navigate</p>
+</div>
+<script>
+if ("ontouchstart" in document.documentElement) { 
+    document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+}
+</script>
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+</body>
+</html>
