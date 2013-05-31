@@ -249,6 +249,7 @@ i, em { font-style: italic }
     top: 7.7em;
     left: -1em;
     display: none;
+    font-family: 'Shadows Into Light Two', cursive;
 }
 
 #my {
@@ -257,6 +258,7 @@ i, em { font-style: italic }
     top: 9em;
     left: 2.0em;
     display: none;
+    font-family: 'Shadows Into Light Two', cursive;
 }
 
 #name {
@@ -265,6 +267,7 @@ i, em { font-style: italic }
     top: 9em;
     left: 3.6em;
     display: none;
+    font-family: 'Shadows Into Light Two', cursive;
 }
 
 #is {
@@ -273,6 +276,7 @@ i, em { font-style: italic }
     top: 9em;
     left: 6.27em;
     display: none;
+    font-family: 'Shadows Into Light Two', cursive;
 }
 
 #nathanielwroblewski {
