@@ -255,7 +255,7 @@ i, em { font-style: italic }
 #my {
     font-size: 55px;
     position: absolute;
-    top: 9em;
+    top: 9.05em;
     left: 1.0em;
     display: none;
     font-family: 'Shadows Into Light Two', cursive;
@@ -264,8 +264,8 @@ i, em { font-style: italic }
 #name {
     font-size: 55px;
     position: absolute;
-    top: 9em;
-    left: 3.6em;
+    top: 9.05em;
+    left: 2.5em;
     display: none;
     font-family: 'Shadows Into Light Two', cursive;
 }
@@ -273,8 +273,8 @@ i, em { font-style: italic }
 #is {
     font-size: 55px;
     position: absolute;
-    top: 9em;
-    left: 6.27em;
+    top: 9.05em;
+    left: 5.09em;
     display: none;
     font-family: 'Shadows Into Light Two', cursive;
 }
