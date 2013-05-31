@@ -224,7 +224,7 @@ i, em { font-style: italic }
     display: block;
     line-height: 72px;
     margin-top: 30px;
-    background-image:url('DBCPhoto.jpeg');
+    background-image:url('/DBCPhoto.jpg');
     left: 12.5em;
     background-size: 103%;
     border: 5px solid black;
