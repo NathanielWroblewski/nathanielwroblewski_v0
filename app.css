@@ -53,11 +53,11 @@ body {
 
     background: rgb(33, 33, 33);
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(53, 53, 53)), to(rgb(13, 13, 13)));
-    background: -webkit-radial-gradient(rgb(53, 53, 53), rgb(0, 13, 13));
-    background:    -moz-radial-gradient(rgb(53, 53, 53), rgb(0, 13, 13));
-    background:     -ms-radial-gradient(rgb(53, 53, 53), rgb(0, 13, 13));
-    background:      -o-radial-gradient(rgb(53, 53, 53), rgb(0, 13, 13));
-    background:         radial-gradient(rgb(53, 53, 53), rgb(0, 13, 13));
+    background: -webkit-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
+    background:    -moz-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
+    background:     -ms-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
+    background:      -o-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
+    background:         radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
 }
 
 /* ################### Link Style ###################### */
