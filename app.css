@@ -255,8 +255,8 @@ i, em { font-style: italic }
 #my {
     font-size: 55px;
     position: absolute;
-    top: 9.05em;
-    left: 1.0em;
+    top: 9.2em;
+    left: 2.1em;
     display: none;
     font-family: 'League Script', cursive;
 }
@@ -264,8 +264,8 @@ i, em { font-style: italic }
 #name {
     font-size: 55px;
     position: absolute;
-    top: 9.05em;
-    left: 2.5em;
+    top: 9.2em;
+    left: 3.6em;
     display: none;
     font-family: 'League Script', cursive;
 }
@@ -273,8 +273,8 @@ i, em { font-style: italic }
 #is {
     font-size: 55px;
     position: absolute;
-    top: 9.05em;
-    left: 5em;
+    top: 9.2em;
+    left: 6.1em;
     display: none;
     font-family: 'League Script', cursive;
 }
