@@ -246,7 +246,7 @@ i, em { font-style: italic }
 #hello {
     position: absolute;
     font-size: 64px;
-    top: 4.5em;
+    top: 7.7em;
     left: -1em;
     display: none;
 }
@@ -254,7 +254,7 @@ i, em { font-style: italic }
 #my {
     font-size: 55px;
     position: absolute;
-    top: 5.29em;
+    top: 9em;
     left: 2.0em;
     display: none;
 }
@@ -262,7 +262,7 @@ i, em { font-style: italic }
 #name {
     font-size: 55px;
     position: absolute;
-    top: 5.29em;
+    top: 9em;
     left: 3.6em;
     display: none;
 }
@@ -270,7 +270,7 @@ i, em { font-style: italic }
 #is {
     font-size: 55px;
     position: absolute;
-    top: 5.29em;
+    top: 9em;
     left: 6.27em;
     display: none;
 }
@@ -282,7 +282,7 @@ i, em { font-style: italic }
     font-size: 90px;
     line-height: 107px;
     width: 10em;
-    top: 3.75em;
+    top: 6em;
     display: none;
 }
 
@@ -364,16 +364,16 @@ i, em { font-style: italic }
 
 #ima {
     font-size: 30px;
-    top: 4em;
-    left: 2.2em;
+    top: 7em;
+    left: 1.2em;
 }
 
 #web {
     position: absolute;
     color: orange;
-    font-size: 90px;
-    top: 2em;
-    left: 1.0em;
+    font-size: 80px;
+    top: 3.3em;
+    left: 0.5em;
     font-family: 'Open Sans', Arial, sans-serif;
     text-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
 }
@@ -381,21 +381,21 @@ i, em { font-style: italic }
 #dev {
     position: absolute;
     color: white;
-    font-size: 90px;
-    top: 2em;
-    left: 3.3em;
+    font-size: 80px;
+    top: 3.3em;
+    left: 2.7em;
     font-family: 'Open Sans', Arial, sans-serif;
     text-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
 }
 
 #in {
     font-size: 30px;
-    top: 8em;
+    top: 11em;
     left: 16em;
 }
 
 #sanfran {
-    top: 8em;
+    top: 11em;
     left: 17em;
 }
 
@@ -501,4 +501,37 @@ li {
 .icons a {
     color: LightGray;
     text-shadow: 3px 3px 6px black;
+}
+
+#pro {
+    height: 900px;
+    width: 1062px;
+    float: left;
+    opacity: 0.3;
+    position: absolute;
+    left: -60%;
+    bottom: -10%;
+}
+
+.circle {
+    display: block;
+
+    width: 700px;
+    height: 700px;
+    padding: 40px 60px;
+
+    border: 4px solid rgba(0, 0, 0, 1);
+    box-shadow: 0 2px 60px rgba(0, 0, 0, .3);
+
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -1px;
+    -webkit-border-radius: 100em;
+    -moz-border-radius: 100em;
+    -ms-border-radius: 100em;
+     -o-border-radius: 100em;
+    border-radius: 100em;
 }
