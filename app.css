@@ -51,13 +51,13 @@ body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
 
-    background: rgb(33, 33, 33);
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(53, 53, 53)), to(rgb(13, 13, 13)));
-    background: -webkit-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
-    background:    -moz-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
-    background:     -ms-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
-    background:      -o-radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
-    background:         radial-gradient(rgb(53, 53, 53), rgb(13, 13, 13));
+    background: rgb(53, 53, 53);
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(73, 73, 73)), to(rgb(33, 33, 33)));
+    background: -webkit-radial-gradient(rgb(73, 73, 73), rgb(33, 33, 33));
+    background:    -moz-radial-gradient(rgb(73, 73, 73), rgb(33, 33, 33));
+    background:     -ms-radial-gradient(rgb(73, 73, 73), rgb(33, 33, 33));
+    background:      -o-radial-gradient(rgb(73, 73, 73), rgb(33, 33, 33));
+    background:         radial-gradient(rgb(73, 73, 73), rgb(33, 33, 33));
 }
 
 /* ################### Link Style ###################### */
