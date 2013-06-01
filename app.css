@@ -256,27 +256,30 @@ i, em { font-style: italic }
     font-size: 55px;
     position: absolute;
     top: 9.2em;
-    left: 2.1em;
+    left: 1.1em;
     display: none;
     font-family: 'League Script', cursive;
+    font-weight: bold;
 }
 
 #name {
     font-size: 55px;
     position: absolute;
     top: 9.2em;
-    left: 3.8em;
+    left: 2.8em;
     display: none;
     font-family: 'League Script', cursive;
+    font-weight: bold;
 }
 
 #is {
     font-size: 55px;
     position: absolute;
     top: 9.2em;
-    left: 6.5em;
+    left: 5.5em;
     display: none;
     font-family: 'League Script', cursive;
+    font-weight: bold;
 }
 
 #nathanielwroblewski {
