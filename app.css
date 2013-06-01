@@ -255,31 +255,31 @@ i, em { font-style: italic }
 #my {
     font-size: 55px;
     position: absolute;
-    top: 9.2em;
-    left: 1.1em;
+    top: 12.5em;
+    left: 1.5em;
     display: none;
-    font-family: 'League Script', cursive;
-    font-weight: bold;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-style: italic;
 }
 
 #name {
     font-size: 55px;
     position: absolute;
-    top: 9.2em;
-    left: 2.8em;
+    top: 12.5em;
+    left: 3em;
     display: none;
-    font-family: 'League Script', cursive;
-    font-weight: bold;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-style: italic;
 }
 
 #is {
     font-size: 55px;
     position: absolute;
-    top: 9.2em;
-    left: 5.5em;
+    top: 12.5em;
+    left: 5.4em;
     display: none;
-    font-family: 'League Script', cursive;
-    font-weight: bold;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-style: italic;
 }
 
 #nathanielwroblewski {
