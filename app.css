@@ -253,7 +253,7 @@ i, em { font-style: italic }
 }
 
 #my {
-    font-size: 55px;
+    font-size: 40px;
     position: absolute;
     top: 12.5em;
     left: 1.5em;
@@ -263,7 +263,7 @@ i, em { font-style: italic }
 }
 
 #name {
-    font-size: 55px;
+    font-size: 40px;
     position: absolute;
     top: 12.5em;
     left: 3em;
@@ -273,7 +273,7 @@ i, em { font-style: italic }
 }
 
 #is {
-    font-size: 55px;
+    font-size: 40px;
     position: absolute;
     top: 12.5em;
     left: 5.4em;
